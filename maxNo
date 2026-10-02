@@ -1,0 +1,9 @@
+a =int(input("Enter the no.1 "))
+b =int(input("Enter the no.2 "))
+if (a>b):
+    print(a," is greater then ",b)
+elif(b>a):
+    print(b," is greater then ",a)
+else:
+    print(a," is equal to ",b)
+

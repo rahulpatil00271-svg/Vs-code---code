@@ -1,0 +1,8 @@
+#Even or Odd
+def x(num):
+    if num%2==0:
+        print("Even")
+    else:
+        print("Odd ")
+
+x(154)

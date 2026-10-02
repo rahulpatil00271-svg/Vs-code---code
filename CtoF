@@ -1,0 +1,3 @@
+C=int(input("Enter in degree C"))
+sum = ((1.8*C)+32)
+print(float(sum))

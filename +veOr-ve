@@ -1,0 +1,7 @@
+x=int(input("Enter your no. "))
+if x>0:
+    print("+ve No. ")
+elif x<0:
+    print("The no. is -ve ")
+else:
+    print("The no. is 0 ")

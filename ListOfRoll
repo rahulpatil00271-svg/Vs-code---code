@@ -1,0 +1,21 @@
+roll_no = [101,102,105,108,105,108]
+for x in roll_no: 
+    print(x)
+
+#Unique set of roll
+
+roll_no = {101,102,105,108,105,108}
+print(roll_no)
+
+#Employee ID code
+employees = [(101,"Rahul",20), (102,"Raj",25)]
+emp_id = int(input("Enter id "))
+
+for employee in employees:
+    if employee[0] == emp_id:
+        print(employee)
+        break
+else:
+    print("Invalid ID ")
+
+
