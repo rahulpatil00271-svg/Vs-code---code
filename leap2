@@ -5,3 +5,5 @@ if year%4==0:
     print("Its a leap year ")
 else :
     print("Its not a leap Year")
+
+#1900 is not a leap year still it will be printed
